@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/hello/static/css/main.d0567bff.chunk.css",
+    "main.js": "/hello/static/js/main.85493703.chunk.js",
+    "main.js.map": "/hello/static/js/main.85493703.chunk.js.map",
+    "runtime-main.js": "/hello/static/js/runtime-main.f66a8c5b.js",
+    "runtime-main.js.map": "/hello/static/js/runtime-main.f66a8c5b.js.map",
+    "static/js/2.699b3395.chunk.js": "/hello/static/js/2.699b3395.chunk.js",
+    "static/js/2.699b3395.chunk.js.map": "/hello/static/js/2.699b3395.chunk.js.map",
+    "index.html": "/hello/index.html",
+    "precache-manifest.a33fe94df9ef58bdc40589024ca475a5.js": "/hello/precache-manifest.a33fe94df9ef58bdc40589024ca475a5.js",
+    "service-worker.js": "/hello/service-worker.js",
+    "static/css/main.d0567bff.chunk.css.map": "/hello/static/css/main.d0567bff.chunk.css.map",
+    "static/js/2.699b3395.chunk.js.LICENSE.txt": "/hello/static/js/2.699b3395.chunk.js.LICENSE.txt",
+    "static/media/Head.css": "/hello/static/media/cypress-darkened.73d8e624.jpg",
+    "static/media/App.css": "/hello/static/media/cypress_background.de1e9254.jpg",
+    "static/media/gitHub-white.png": "/hello/static/media/gitHub-white.1ae0c166.png",
+    "static/media/headshot3.jpg": "/hello/static/media/headshot3.2bb7d4dd.jpg",
+    "static/media/linkedIn-white.png": "/hello/static/media/linkedIn-white.8c2a56c9.png",
+    "static/media/ravenous_thumb.jpg": "/hello/static/media/ravenous_thumb.d9ae1cc7.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f66a8c5b.js",
+    "static/js/2.699b3395.chunk.js",
+    "static/css/main.d0567bff.chunk.css",
+    "static/js/main.85493703.chunk.js"
+  ]
+}
